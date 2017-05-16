@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	email = training@hashicorp.com
+	name = HashiCorp Training
+[credential]
+	helper = cache --timeout=3600

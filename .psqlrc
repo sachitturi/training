@@ -1,0 +1,6 @@
+\set QUIET 1
+\set COMP_KEYWORD_CASE upper
+\set PROMPT1 '%n > '
+
+\echo 'Welcome to PostgreSQL for HashiCorp training!'
+\echo 'Type \\q to exit.\n'
